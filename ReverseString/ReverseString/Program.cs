@@ -24,7 +24,7 @@ static string ReverseString(string value)
 }
 
 // Time Complexity: O(n/2) or O(n) 
-// Space Complexity: O(n) 
+// Space Complexity: O(1) 
 
 
 

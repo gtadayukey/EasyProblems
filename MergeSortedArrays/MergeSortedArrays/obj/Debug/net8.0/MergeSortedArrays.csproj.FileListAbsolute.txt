@@ -1,0 +1,15 @@
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.AssemblyInfoInputs.cache
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.AssemblyInfo.cs
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.csproj.CoreCompileInputs.cache
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.sourcelink.json
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\bin\Debug\net8.0\MergeSortedArrays.exe
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\bin\Debug\net8.0\MergeSortedArrays.deps.json
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\bin\Debug\net8.0\MergeSortedArrays.runtimeconfig.json
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\bin\Debug\net8.0\MergeSortedArrays.dll
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\bin\Debug\net8.0\MergeSortedArrays.pdb
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.dll
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\refint\MergeSortedArrays.dll
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.pdb
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\MergeSortedArrays.genruntimeconfig.cache
+D:\Code\EasyProblems\MergeSortedArrays\MergeSortedArrays\obj\Debug\net8.0\ref\MergeSortedArrays.dll
