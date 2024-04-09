@@ -1,0 +1,15 @@
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.exe
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.deps.json
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.runtimeconfig.json
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.dll
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\bin\Debug\net8.0\ContainsDuplicate.pdb
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.AssemblyInfoInputs.cache
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.AssemblyInfo.cs
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.csproj.CoreCompileInputs.cache
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.sourcelink.json
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.dll
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\refint\ContainsDuplicate.dll
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.pdb
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ContainsDuplicate.genruntimeconfig.cache
+D:\Code\EasyProblems\ContainsDuplicate\ContainsDuplicate\obj\Debug\net8.0\ref\ContainsDuplicate.dll

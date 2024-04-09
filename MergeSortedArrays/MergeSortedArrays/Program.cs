@@ -40,6 +40,3 @@ static int[] MergeSortedArrays(int[] array1, int[] array2)
 
     return mergedArray;
 }
-
-// Time Complexity: O(n)
-// Space Complexity: O(1)

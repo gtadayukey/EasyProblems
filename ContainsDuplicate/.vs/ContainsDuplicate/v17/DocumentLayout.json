@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\EasyProblems\\ContainsDuplicate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\EasyProblems\\MergeSortedArrays\\MergeSortedArrays\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\EasyProblems\\TwoSum\\TwoSum\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7D74F3-9EC0-4662-B557-3A21E646B61E}|ContainsDuplicate\\ContainsDuplicate.csproj|d:\\code\\easyproblems\\containsduplicate\\containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7D74F3-9EC0-4662-B557-3A21E646B61E}|ContainsDuplicate\\ContainsDuplicate.csproj|solutionrelative:containsduplicate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\EasyProblems\\MergeSortedArrays\\MergeSortedArrays\\Program.cs",
+              "RelativeDocumentMoniker": "..\\MergeSortedArrays\\MergeSortedArrays\\Program.cs",
+              "ToolTip": "D:\\Code\\EasyProblems\\MergeSortedArrays\\MergeSortedArrays\\Program.cs",
+              "RelativeToolTip": "..\\MergeSortedArrays\\MergeSortedArrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:22:48.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\EasyProblems\\TwoSum\\TwoSum\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TwoSum\\TwoSum\\Program.cs",
+              "ToolTip": "D:\\Code\\EasyProblems\\TwoSum\\TwoSum\\Program.cs",
+              "RelativeToolTip": "..\\TwoSum\\TwoSum\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:22:33.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\EasyProblems\\ContainsDuplicate\\ContainsDuplicate\\Program.cs",
+              "RelativeDocumentMoniker": "ContainsDuplicate\\Program.cs",
+              "ToolTip": "D:\\Code\\EasyProblems\\ContainsDuplicate\\ContainsDuplicate\\Program.cs",
+              "RelativeToolTip": "ContainsDuplicate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T15:13:47.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
