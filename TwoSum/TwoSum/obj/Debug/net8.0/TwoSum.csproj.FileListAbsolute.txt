@@ -1,0 +1,15 @@
+D:\Code\EasyProblems\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.exe
+D:\Code\EasyProblems\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.deps.json
+D:\Code\EasyProblems\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.runtimeconfig.json
+D:\Code\EasyProblems\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.dll
+D:\Code\EasyProblems\TwoSum\TwoSum\bin\Debug\net8.0\TwoSum.pdb
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfoInputs.cache
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.AssemblyInfo.cs
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.csproj.CoreCompileInputs.cache
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.sourcelink.json
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.dll
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\refint\TwoSum.dll
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.pdb
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\TwoSum.genruntimeconfig.cache
+D:\Code\EasyProblems\TwoSum\TwoSum\obj\Debug\net8.0\ref\TwoSum.dll
