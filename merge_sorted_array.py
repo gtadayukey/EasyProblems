@@ -1,22 +1,23 @@
 def merge(nums1, m, nums2, n):
-    if n == 0:
-        return nums1
+    i = m - 1
+    j = n - 1
+    k = m + n - 1
 
-    i = j = 0
-    temp = []
-
-    while i + j < m + n:
+    while i >= 0 and j >= 0:
         if nums1[i] > nums2[j]:
-            temp.append(nums2[j])
-            j += 1
-        elif m > i and 2*m - 1 > i + j:
-            temp.append(nums1[i])
-            i += 1
+            nums1[k] = nums1[i]
+            i -= 1
         else:
-            temp.append(nums2[j])
-            j += 1
+            nums1[k] = nums2[j]
+            j -= 1
+        k -= 1
 
-    return temp
+    while j >= 0:
+        nums1[k] = nums2[j]
+        j -= 1
+        k -= 1
+
+    return nums1
 
 
 if __name__ == "__main__":
